@@ -9,3 +9,7 @@ img{
     margin: auto;
    display: block;
 }
+footer{
+    background-color: aquamarine;
+    text-align: center;
+}
